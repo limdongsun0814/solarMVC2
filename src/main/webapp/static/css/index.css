@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+	background-image: url("../gif/preview.gif");
+	/*background-size: cover;*/
+	color: white;
+}
+
+p{
+	color: red;
+}
+form{
+	text-align: center;
+}
+table{
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+input[type="submit"],button{
+	width: 100px;
+	height: 30px;
+}
+input[type="submit"]{
+	padding: 3px;
+}
+div{
+	display: inline-block;
+}

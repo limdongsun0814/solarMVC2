@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+	background-image: url("../gif/preview.gif");
+	color: white;
+}
+
+#home {
+	display: inline-block;
+	padding: 50px;
+}
+#emp:hover ul{
+	display: block;
+}
+#dept:hover ul{
+	display: block;
+}
+#jop:hover ul{
+	display: block;
+}
+#power:hover ul{
+	display: block;
+}
+
+label{
+	padding: 10px;
+}
+
+ul {
+	display: none;
+}

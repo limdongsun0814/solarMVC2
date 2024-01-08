@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+	background-image: url("../gif/preview.gif");
+	/*background-size: cover;*/
+	color: white;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, td, th, tr{
+	border: 1px solid white;
+}
+form{
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+input{
+	margin:5px;
+}

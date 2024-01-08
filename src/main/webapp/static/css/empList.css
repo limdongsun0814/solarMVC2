@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+	background-image: url("../gif/preview.gif");
+	/*background-size: cover;*/
+	color: white;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+table, td, th, tr{
+	border: 1px solid white;
+}
+td,th,tr{
+	padding: 10px;
+}
